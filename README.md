@@ -6,4 +6,4 @@
 I also love to create things and make them big. 🚀
 See heyderdahl.com as reference.
 
-Want to hire me? join the duck army (theduck.agency, or wantu@theduck.agency)
+Want to hire me? join the duck army (heyderdahl.com, or joe@heyderdahl.com)
