@@ -1,9 +1,19 @@
-- Hey, I am Exanteros, 👋
-- a Frontend Developer 💻
-- with a good eye 👁
-- for detail. 🎯
+.-------------------.
+       /                     \
+      /-----------------------\
+     |      .-----------.      |
+     |      |   [o o]   |      |
+     |      |    \_/    |      |
+     |      | HAPPY MAC |      |
+     |      '-----------'      |
+     |                         |
+     |       [=========]       |  <- Diskettenlaufwerk
+     '-------------------------'
 
-I also love to create things and make them big. 🚀
-See heyderdahl.com as reference.
-
-Want to hire me? join the duck army (heyderdahl.com, or joe@heyderdahl.com)
+      [_______________________]
+      | [..][..][..][..][..]  |
+      | [..][..][..][..][..]  | <- Tastatur
+      '-----------------------'
+                |
+      (o)_      |
+      |___| ----'  <- Maus
